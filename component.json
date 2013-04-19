@@ -3,7 +3,6 @@
   "repo": "lge88/bootstrap-file-input.git",
   "upstream": "git://github.com/grevory/bootstrap-file-input.git",
   "dependencies": {
-    "lge88/bootstrap": "*",
     "lge88/jquery": "*"
   },
   "scripts": [
